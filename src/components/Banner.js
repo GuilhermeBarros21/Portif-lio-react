@@ -60,7 +60,7 @@ export const Banner = () => {
                   <p>Meu nome é Guilherme Barros, graduando no curso de Ciências da computação e desenvolvedor web Front-end.
                   Busco oportunidades no mercado como dev.
                   </p>
-                  <a href="https://bikcraft-sigma-six.vercel.app/" className="vvd" style={{ textDecoration: 'none' }}>
+                  <a href="#" className="vvd" style={{ textDecoration: 'none' }}>
                   <button onClick={() => console.log('conect')}>Entre em contato <ArrowRightCircle size={25} /></button></a>
               </div>}
             </TrackVisibility>
